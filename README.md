@@ -1,6 +1,6 @@
 # Zencrypt (Beta) (v1.0)
 <p align="center">
-  <img src="https://github.com/hackerstore/Zecryption/raw/main/img/template.jpg">
+  <img src="https://github.com/hackerstore/Zecryption/raw/main/image/template.jpg">
 </p>
 
 # :desktop_computer: About:
@@ -15,7 +15,7 @@
 
 # :hammer: Builder:
 <p align="center">
-  <img src="https://github.com/hackerstore/Zecryption/raw/main/img/model.png">
+  <img src="https://github.com/hackerstore/Zecryption/raw/main/image/model.png">
 </p>
 
 Give Me A Star...
