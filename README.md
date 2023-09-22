@@ -1,6 +1,6 @@
 # Zencrypt (Beta) (v1.0)
 <p align="center">
-  <img src="https://github.com/hackerstore/WebAi-Gen/raw/main/img/New%20Project%20(1).jpg">
+  <img src="https://github.com/hackerstore/Zecryption/raw/main/img/template.jpg">
 </p>
 
 # :desktop_computer: About:
@@ -15,7 +15,7 @@
 
 # :hammer: Builder:
 <p align="center">
-  <img src="https://github.com/hackerstore/WebAi-Gen/raw/main/img/Capture.JPG">
+  <img src="https://github.com/hackerstore/Zecryption/raw/main/img/model.png">
 </p>
 
 Give Me A Star...
