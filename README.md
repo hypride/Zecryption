@@ -12,6 +12,7 @@
 * Clone this repository
 * Run the Zencryption.exe file
 * done
+* The password of Decryption is 91806 x 7 = ?
 
 # :hammer: Builder:
 <p align="center">
