@@ -6,7 +6,7 @@
 # :desktop_computer: About:
 * English Text Data Encrypter
 * Written in Python.
-* Author : [Nazimcp](https://instagram.com/nazimcp7)
+* Author : [Instagram](https://instagram.com/)
 
 # :electric_plug: Usage:
 * Clone this repository
